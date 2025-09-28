@@ -1,0 +1,1 @@
+g++ pendulum.cpp -o pe.exe -O3 -lgdi32 -static
